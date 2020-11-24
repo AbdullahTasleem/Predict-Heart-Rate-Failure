@@ -58,7 +58,7 @@ Give it a name and description, hit OK. Write down the API key somewhere.
 
 ![generated api key](doc/images/api-2.png)
 
-### 2. Create a new Cloud Pak for Data project
+### 2. Create a new Cloud Pak for Data projecthttps://cloud.ibm.com/devops/setup/deploy?repository=
 
 Log into IBM's [Cloud Pak for Data](https://dataplatform.cloud.ibm.com) service (formally known as Watson Studio). Once in, you'll land on the dashboard.
 
@@ -155,7 +155,7 @@ Click on the `API reference` tab and save the `Endpoint`. We'll be using this in
 You can deploy this application as a Cloud Foundry application to IBM Cloud by simply clicking the button below. This option will create a deployment pipeline, complete with a hosted Git lab project and devops toolchain.
 
 <p align="center">
-    <a href="https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/AbdullahTasleem/Predict-Heart-Rate-Failure">
+    <a href="https://cloud.ibm.com/devops/setup/deploy?repository=https://github.ibm.com/Abdullah-Tasleem1/predict-heart-rate-failure">
     <img src="https://cloud.ibm.com/devops/setup/deploy/button_x2.png" alt="Deploy to IBM Cloud">
     </a>
 </p>
