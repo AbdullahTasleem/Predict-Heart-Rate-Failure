@@ -1,0 +1,10 @@
+---
+applications:
+- path: ./server
+  name: watson-ml-tester
+  command: npm start
+  instances: 1
+  memory: 256M
+  env:
+    API_KEY: placeholder
+    DEPLOYMENT_URL: placeholder
